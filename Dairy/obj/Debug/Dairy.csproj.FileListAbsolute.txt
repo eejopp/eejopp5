@@ -1,0 +1,22 @@
+C:\Users\Andrey\Desktop\Алексей\Prakt04\Dairy\bin\Debug\Dairy.exe.config
+C:\Users\Andrey\Desktop\Алексей\Prakt04\Dairy\bin\Debug\Dairy.exe
+C:\Users\Andrey\Desktop\Алексей\Prakt04\Dairy\bin\Debug\Dairy.pdb
+C:\Users\Andrey\Desktop\Алексей\Prakt04\Dairy\obj\Debug\Dairy.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Алексей\Prakt04\Dairy\obj\Debug\Dairy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey\Desktop\Алексей\Prakt04\Dairy\obj\Debug\Dairy.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Алексей\Prakt04\Dairy\obj\Debug\Dairy.exe
+C:\Users\Andrey\Desktop\Алексей\Prakt04\Dairy\obj\Debug\Dairy.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Prakt04\Dairy\bin\Debug\Dairy.exe.config
+C:\Users\arina\OneDrive\Рабочий стол\Prakt04\Dairy\bin\Debug\Dairy.exe
+C:\Users\arina\OneDrive\Рабочий стол\Prakt04\Dairy\bin\Debug\Dairy.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Prakt04\Dairy\obj\Debug\Dairy.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Prakt04\Dairy\obj\Debug\Dairy.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Prakt04\Dairy\obj\Debug\Dairy.exe
+C:\Users\arina\OneDrive\Рабочий стол\Prakt04\Dairy\obj\Debug\Dairy.pdb
+C:\Users\arina\source\repos\Prakt04\Dairy\bin\Debug\Dairy.exe.config
+C:\Users\arina\source\repos\Prakt04\Dairy\bin\Debug\Dairy.exe
+C:\Users\arina\source\repos\Prakt04\Dairy\bin\Debug\Dairy.pdb
+C:\Users\arina\source\repos\Prakt04\Dairy\obj\Debug\Dairy.csproj.AssemblyReference.cache
+C:\Users\arina\source\repos\Prakt04\Dairy\obj\Debug\Dairy.csproj.CoreCompileInputs.cache
+C:\Users\arina\source\repos\Prakt04\Dairy\obj\Debug\Dairy.exe
+C:\Users\arina\source\repos\Prakt04\Dairy\obj\Debug\Dairy.pdb
